@@ -7,5 +7,6 @@ public class Demo {
         System.out.println("hello world");
         System.out.println("hello world");
         System.out.println("hot-fix");
+        System.out.println("hot-fix2");
     }
 }
